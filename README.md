@@ -161,7 +161,7 @@
   - Our regression reports that a 1  percentage point increase raises product upgrading by 1.5 percent. 
 
   <img src="https://dynalist.io/u/8MXZXv4tRhIbD-5lC62b4NjV" >
-    - 
+    
 - Characteristics of  the destination countries, products, and companies
   - each regression controls for various fixed effects:
     -  size of firms, importing  countries, and origin of exports, but it also captures variations across firms and sectors.
@@ -181,8 +181,7 @@
 ### Pollution in China
 
   - China is a first class player in the world economy for the trade, growth, technology but China is also notorious for being a major polluter.
-    From [Pollution and Structural Transformation | Data Science](https://thomaspernet.netlify.com/research/structural-transformation/)
-
+  
   - There is no other country in the world with a sharp increase as China.
 
     <iframe width="600" height="400" src="https://datastudio.google.com/embed/reporting/1tMowiEW1NbF3L_5PjF7cfQoY-vEcRV1I/page/Tohh" frameborder="0" style="border:0" allowfullscreen></iframe>
