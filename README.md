@@ -17,6 +17,7 @@
   - Learn more about capabilities [here for graphics](https://atlas.media.mit.edu/en/profile/country/chn/) and [here for computation](https://dynalist.io/d/YesrTy2MwMOSjcZpvLkOIYwB)
 
   Evolution of Economic Complexity of China over time
+  
   <img src="https://github.com/thomaspernet/research-phd/raw/master/img/1.png" >
 
   Mapping of product space of China: The product space is a network connecting products that are likely to be co-exported and can be used to predict the evolution of a country’s export structure.
@@ -55,8 +56,13 @@
 
 - Role of productive structure on FDI inflow
 
-  - Specialisation in complex good brings more growth
-  - Export performances is limited to ordinary trade
+    - Region that have succeeded to build sophisticated industries enjoy larger amount of FDI
+    - Complexity is stable at .29, significant at 1 percent across all column 
+    - Agglomeration effect are found positive, very significant and same order of magnitude as in the literature
+    - Firms have strong incentive to invest in city with favorable industrial policy
+
+<img src="https://dynalist.io/u/wFzZwD65NnC27KzONC23D3Ye" >
+
 
 - Valuable for the policy maker
 
