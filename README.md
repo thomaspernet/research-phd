@@ -8,13 +8,20 @@
   - Meanwhile, China shifted its production of goods formerly produced by low-income countries to those comparable in rich countries (McMillan et al. 2014)
     - The litterature explained product upgrading through the transfer of resources from low productivity into activities with high productivity
 
-- ## What is it about?
-
   - The value added of this paper is to link both literature: FDI and Structural transformation
 
 - ## Product Upgrading
 
   - Definition of product upgrading: the ability of a country to build and diversify its stock of ‘*capabilities*’ to produce complex goods.
+
+  - Learn more about capabilities [here for graphics](https://atlas.media.mit.edu/en/profile/country/chn/) and [here for computation](https://dynalist.io/d/YesrTy2MwMOSjcZpvLkOIYwB)
+
+  Evolution of Economic Complexity of China over time
+  <img src="https://github.com/thomaspernet/research-phd/raw/master/img/1.png" >
+
+  Mapping of product space of China: The product space is a network connecting products that are likely to be co-exported and can be used to predict the evolution of a country’s export structure.
+
+  <img src="https://github.com/thomaspernet/research-phd/raw/master/img/2.png">
 
 - ## Why is it interesting?
 
