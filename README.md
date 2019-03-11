@@ -72,32 +72,34 @@
 
 # Economic Openness, Industrial Policies and Quality Upgrading: Evidence from China
 
-## What is it about?
-
   - Achieving economic development requires a change in the industrial structure. 
     - Countries must begin to reallocate resources to products with more **significant potential** and intrinsic features that do not restrict the capacity to innovate
     - Need of diversification
   - The government must guide the transformation by opting for industrial policies that promote continuous product upgrading
   - The determinants of structural transformation and quality upgrading through an original inudstrial policy: The Chinese VAT rebate system
 
-## What do we know about Export and Quality
+## What do we know about Quality
 
 ### Quality and firm performance
 
-    - Firms exporting high-quality (price) products have high revenue, access a large number of destination markets and pay high wages
+  - Firms exporting high-quality (price) products have high revenue, access a large number of destination markets and pay high wages 
+  - first models attempt to explain the selection of firms in the export market through productivity
+    - only the most productive companies will be able to export goods with a lower unit cost
+  - More recent models assumes that the consumer is more sensitive to the quality-adjusted price than the observed price
+  - This quality parameter represents a shift in demand. 
+    - Companies compete not only with prices but also with horizontal differentiation.
+  - These models explain the extent to which firms can cope with the fixed cost of exporting by charging higher prices in more distant and more competitive countries.
+
 
 ### Quality and Tariff
 
-    - Following a trade liberalization, firm purchase higher quality input to enter more profitable market
+  - Following a trade liberalization, firm purchase higher quality input to enter more profitable market
     - Improve quality to escape competition
 
-## What do we know about Industrial policy
+## Industrial policy
 
-  - Good policy foster export: VAT rebate is a tool to keep export value high
+  - Good policy foster export: VAT rebate is a tool to keep export values high
 
-- Value added
-
-  - Link both literature to find the mechanism through which quality upgrading operate
 
 ## VAT tax in China
 
@@ -131,8 +133,8 @@
 
 ### Include several fixed effect
 
-    - for sectorial, destination (origin) and location time-varying shocks which may affect firms' prices.
-    - Some unobservable shocks (e.g.,specific policies at the sectorial–regional level).=> control group of processing firms => affect prices of ordinary and processing firms similarly.
+  - for sectorial, destination (origin) and location time-varying shocks which may affect firms' prices.
+  - Some unobservable shocks (e.g.,specific policies at the sectorial–regional level).=> control group of processing firms => affect prices of ordinary and processing firms similarly.
 
 ### Endogeneity
 
