@@ -14,7 +14,7 @@
 
   - Definition of product upgrading: the ability of a country to build and diversify its stock of ‘*capabilities*’ to produce complex goods.
 
-  - Learn more about capabilities [here for graphics](https://atlas.media.mit.edu/en/profile/country/chn/) and [here for computation](https://dynalist.io/d/YesrTy2MwMOSjcZpvLkOIYwB)
+  - Learn more about capabilities [here for graphics](https://atlas.media.mit.edu/en/profile/country/chn/) and [here for computation](https://dynalist.io/d/o8RPy5asVhNW70rVLysTKo4t)
 
   Evolution of Economic Complexity of China over time
 
