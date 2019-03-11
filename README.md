@@ -1,6 +1,6 @@
 # Chapter 1: Structural Transformation and Foreign Direct Investment
 
-## What do we know about Structural transformation and FDI?
+## Structural transformation and FDI?
 
   - China attracted foreign direct investment (FDI) more than any other developping countries
     - the literature mentions the agglomeration effect to explain multinational activities abroad
@@ -78,7 +78,7 @@
   - The government must guide the transformation by opting for industrial policies that promote continuous product upgrading
   - The determinants of structural transformation and quality upgrading through an original inudstrial policy: The Chinese VAT rebate system
 
-## What do we know about Quality
+## Quality
 
 ### Quality and firm performance
 
@@ -95,6 +95,8 @@
 
   - Following a trade liberalization, firm purchase higher quality input to enter more profitable market
     - Improve quality to escape competition
+
+  - More about the computation of quality can be found [here](https://dynalist.io/d/hnOnutKtJdI6IPjlF_IrsBQi)
 
 ## Industrial policy
 
@@ -145,7 +147,32 @@
       - (i) excluding foreign-owned companies
       - (ii) requiring that, for each ordinary firm, there is at least one processing firm exporting the same HS6 product to the same destination in the same year
 
+## Results
 
+- Recent works on the export data for firms have shown the enormous gains from quality upgrading.
+- We investigate first the impact of a change in the export tax on the product upgrading for a panel of Chinese domestic firms.
+- difference-in-difference estimation
+  - The dependent variable is an indicator of quality measured for the firm’product’year.
+  - Processing traders constitute the control group, because they cannot be eligible for VAT reimbursement
+  - control for unobservable variables that do not vary over time and any other shock affecting the origin/destination of exports.
+- The role of VAT on quality
+  - An increase in VAT tax has a negative impact on the quality of domestic ordinary trade firms.
+  - Processing firms do not seem to be affected by the policy. 
+  - Our regression reports that a 1  percentage point increase raises product upgrading by 1.5 percent. 
+
+  <img src="https://dynalist.io/u/8MXZXv4tRhIbD-5lC62b4NjV" >
+    - 
+- Characteristics of  the destination countries, products, and companies
+  - each regression controls for various fixed effects:
+    -  size of firms, importing  countries, and origin of exports, but it also captures variations across firms and sectors.
+  - When the government decides to raise the VAT rebates, the product improvement remains specific to exports to developed countries
+  - products with a broad scope of differentiation will benefit  more from VAT rebates than homogeneous products (Rauch 1999 classification)
+    - The tax does not uniformly affect all products and that policy makers should pay close attention to the type of goods targeted. 
+  - Small firms may have less incentive to improve the quality than larger firms.
+
+<img src="https://dynalist.io/u/EFGL1qVfFO6w2wDB2oH-nlaw" >
+
+- More results can be found [here](https://dynalist.io/d/hnOnutKtJdI6IPjlF_IrsBQi)
 
 # Trade And Pollution
 
