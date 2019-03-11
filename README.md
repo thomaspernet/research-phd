@@ -17,7 +17,7 @@
   - Learn more about capabilities [here for graphics](https://atlas.media.mit.edu/en/profile/country/chn/) and [here for computation](https://dynalist.io/d/YesrTy2MwMOSjcZpvLkOIYwB)
 
   Evolution of Economic Complexity of China over time
-  
+
   <img src="https://github.com/thomaspernet/research-phd/raw/master/img/1.png" >
 
   Mapping of product space of China: The product space is a network connecting products that are likely to be co-exported and can be used to predict the evolution of a country’s export structure.
@@ -63,11 +63,12 @@
 
 <img src="https://dynalist.io/u/wFzZwD65NnC27KzONC23D3Ye" >
 
-
-- Valuable for the policy maker
+- Valuable for the policy maker: sector specific
 
   - Target processing trade sector has no effect on FDI
   - Target innovative sectors is fundamental to bring more FDI
+
+<img src="https://dynalist.io/u/QrsHiikuoebZ78lBEZlXpqJC" >
 
 # Economic Openness, Industrial Policies and Quality Upgrading: Evidence from China
 
