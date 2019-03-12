@@ -129,10 +129,10 @@
   - Expect VAT rebates to only have an effect on eligible export activities (ordinary and processing trade with imported materials)
 
 
+## Identification Strategy
+
 - Recent works on the export data for firms have shown the enormous gains from quality upgrading.
 - We investigate first the impact of a change in the export tax on the product upgrading for a panel of Chinese domestic firms.
-
-## Identification Strategy
 
 ### Difference-in-difference
 
