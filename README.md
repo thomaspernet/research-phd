@@ -14,7 +14,7 @@
 
   - Definition of product upgrading: the ability of a country to build and diversify its stock of ‘*capabilities*’ to produce complex goods.
 
-  - Learn more about capabilities [here for graphics](https://atlas.media.mit.edu/en/profile/country/chn/) and [here for computation](https://dynalist.io/d/o8RPy5asVhNW70rVLysTKo4t)
+  - Learn more about capabilities [here for graphics](https://atlas.media.mit.edu/en/visualize/network/hs92/export/chn/all/show/2017/) and [here for computation](https://dynalist.io/d/o8RPy5asVhNW70rVLysTKo4t)
 
   Evolution of Economic Complexity of China over time
 
@@ -54,16 +54,19 @@
 
 ## Findings
 
-- Role of productive structure on FDI inflow
+### Role of productive structure on FDI inflow 
 
-    - Region that have succeeded to build sophisticated industries enjoy larger amount of FDI
-    - Complexity is stable at .29, significant at 1 percent across all column 
-    - Agglomeration effect are found positive, very significant and same order of magnitude as in the literature
-    - Firms have strong incentive to invest in city with favorable industrial policy
+(more [information](https://dynalist.io/d/o8RPy5asVhNW70rVLysTKo4t) about the strategy)
+
+  - Region that have succeeded to build sophisticated industries enjoy larger amount of FDI
+  - Complexity is stable at .29, significant at 1 percent across all column 
+    - marginal impact : a 10% increase in complexity leads to 30% increase of the likelihood for an average investor
+  - Agglomeration effect are found positive, very significant and same order of magnitude as in the literature
+  - Firms have strong incentive to invest in city with favorable industrial policy
 
 <img src="https://dynalist.io/u/wFzZwD65NnC27KzONC23D3Ye" >
 
-- Valuable for the policy maker: sector specific
+### Sector specific
 
   - Target processing trade sector has no effect on FDI
   - Target innovative sectors is fundamental to bring more FDI
@@ -115,6 +118,8 @@
   - The Chinese export VAT refund mechanism in practice does not allow full recovery of the input VAT incurred for raw materials or components imported or purchased locally
 
     - There are 5 ranks from 5% to 17% and Chinese government frequently changes the rate according to the goals pursued
+      - For example, a product with a 17 percent VAT rate and a 13 percent discount rate means 4 percent tax for the exporting company
+    - The amount of VAT payable is based on the quantity exported.
 
 ### Eligibility rule for VAT rebate
 
