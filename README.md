@@ -182,7 +182,7 @@
 
 - More results can be found [here](https://dynalist.io/d/hnOnutKtJdI6IPjlF_IrsBQi)
 
-# Trade And Pollution
+# Product Upgrading And Pollution
 
 ### Facts
 
@@ -223,6 +223,14 @@
   - In this paper, we propose to establish a link between the quality enhancement of the Chinese economy and its impact on the environment.
 
     <iframe width="600" height="400" src="https://datastudio.google.com/embed/reporting/1tMowiEW1NbF3L_5PjF7cfQoY-vEcRV1I/page/rLJk" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+### Share of Trade type
+
+  - Processing trade emits less pollution compared with ordinary trade. 
+  - The share of processing is decreasing over time
+    - Impact on the pollution emission? 
+
+  <iframe width="600" height="400" src="https://datastudio.google.com/embed/reporting/1tMowiEW1NbF3L_5PjF7cfQoY-vEcRV1I/page/C2Lk" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## What is the paper about?
 
