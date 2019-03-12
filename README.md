@@ -138,6 +138,7 @@
 
 - More about the strategy can be found [here](https://dynalist.io/d/hnOnutKtJdI6IPjlF_IrsBQi)
 
+  - The dependent variable is an indicator of quality measured for the firm’product’year.
   - Exploits both the variation in VAT rebate and the existence of a control group composed of processing firms with similar export characteristics as ordinary firms
 
     - require that for each ordinary firm there is at least one processing firm exporting the same product to the same destination in the same year.
@@ -160,7 +161,6 @@
 ## Results
 
 - difference-in-difference estimation
-  - The dependent variable is an indicator of quality measured for the firm’product’year.
   - Processing traders constitute the control group, because they cannot be eligible for VAT reimbursement
   - control for unobservable variables that do not vary over time and any other shock affecting the origin/destination of exports.
 - The role of VAT on quality
@@ -186,14 +186,6 @@
 
 ### Facts
 
-### Pollution in China
-
-  - China is a first class player in the world economy for the trade, growth, technology but China is also notorious for being a major polluter.
-  
-  - There is no other country in the world with a sharp increase as China.
-
-    <iframe width="600" height="400" src="https://datastudio.google.com/embed/reporting/1tMowiEW1NbF3L_5PjF7cfQoY-vEcRV1I/page/Tohh" frameborder="0" style="border:0" allowfullscreen></iframe>
-
 ### Trade in China
 
   - China rapidly grow into the factory of the World, exporting goods and manuctured products everywhere in the world.
@@ -201,6 +193,14 @@
   - In 2005, the Chinese economy dethroned the US in the merchandised exported. Since then, China never stopped to increase the gap with the other economies
 
     <iframe width="600" height="400" src="https://datastudio.google.com/embed/reporting/1tMowiEW1NbF3L_5PjF7cfQoY-vEcRV1I/page/p5hh" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+### Pollution in China
+
+  - China is a first class player in the world economy for the trade, growth, technology but China is also notorious for being a major polluter.
+  
+  - There is no other country in the world with a sharp increase as China.
+
+    <iframe width="600" height="400" src="https://datastudio.google.com/embed/reporting/1tMowiEW1NbF3L_5PjF7cfQoY-vEcRV1I/page/Tohh" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ### Trade and Pollution
 
