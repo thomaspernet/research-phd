@@ -273,7 +273,7 @@
   - Chinese Trade: switch from low quality to middle-high quality
   - Chinese type of trade: Lower processing trade. Increase ordinary trade
   - Increase quality leads to more revenue and more growth.
-    - But, Sandra's paper shows ordinary trade does not improve the environment, then a negative impact on growth.
+    - But, Sandra's paper shows ordinary trade does not improve the environment, then a negative impact on growth. More about the paper [here](https://dynalist.io/d/D9qe5sUl-G39NS5L2di0mrIj)
     - The effect is ambiguous.
   - Add the quality into the model to explore the relationship between structural transformation, and the environment.
   - The theoretical model shows an ambiguous effect in the firm selection: average ordinary us processing what effect prevail?
