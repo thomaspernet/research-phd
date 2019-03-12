@@ -144,6 +144,8 @@
     - require that for each ordinary firm there is at least one processing firm exporting the same product to the same destination in the same year.
     - analysis focuses on domestic Chinese ordinary and processing firms by excluding foreign-owned companies.
 
+  $$ Quality_{ikcdt} = \beta_{1}Ordinary^{E}_{i}*\text{Ln VAT export tax}_{k, t-1}+\beta_{5} Ordinary_{i}^{E}*\text{Ln import tax}_{k, t-1}+ \delta Competition_{s, t 1}+\beta_{4}Size_{i,t0}^{E}*\alpha_{t}+\alpha_{ik}+\alpha_{ct}+\alpha_{dt}+\alpha_{st}^{E}+ \epsilon_{ikcdt}  $$
+
 ### Include several fixed effect
 
   - for sectorial, destination (origin) and location time-varying shocks which may affect firms' prices.
