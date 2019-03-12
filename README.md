@@ -105,7 +105,6 @@
 
   - Good policy foster export: VAT rebate is a tool to keep export values high
 
-
 ## VAT tax in China
 
 ### Main Objectives
@@ -129,9 +128,15 @@
   - Even if the exporter pays VAT on local purchases, there is no entitlement to any export refund.
   - Expect VAT rebates to only have an effect on eligible export activities (ordinary and processing trade with imported materials)
 
+
+- Recent works on the export data for firms have shown the enormous gains from quality upgrading.
+- We investigate first the impact of a change in the export tax on the product upgrading for a panel of Chinese domestic firms.
+
 ## Identification Strategy
 
 ### Difference-in-difference
+
+- More about the strategy can be found [here](https://dynalist.io/d/hnOnutKtJdI6IPjlF_IrsBQi)
 
   - Exploits both the variation in VAT rebate and the existence of a control group composed of processing firms with similar export characteristics as ordinary firms
 
@@ -154,8 +159,6 @@
 
 ## Results
 
-- Recent works on the export data for firms have shown the enormous gains from quality upgrading.
-- We investigate first the impact of a change in the export tax on the product upgrading for a panel of Chinese domestic firms.
 - difference-in-difference estimation
   - The dependent variable is an indicator of quality measured for the firm’product’year.
   - Processing traders constitute the control group, because they cannot be eligible for VAT reimbursement
