@@ -1,0 +1,98 @@
+HS2,details_description,broad_description
+1,Live animals.,LIVE ANIMALS; ANIMAL PRODUCTS
+2,Meat and edible meat offal.,LIVE ANIMALS; ANIMAL PRODUCTS
+3,"Fish and crustaceans, molluscs and other aquatic invertebrates.",LIVE ANIMALS; ANIMAL PRODUCTS
+4,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included.",LIVE ANIMALS; ANIMAL PRODUCTS
+5,"Products of animal origin, not elsewhere specified or included.",LIVE ANIMALS; ANIMAL PRODUCTS
+6,"Live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage.",VEGETABLE PRODUCTS
+7,Edible vegetables and certain roots and tubers.,VEGETABLE PRODUCTS
+8,Edible fruit and nuts; peel of citrus fruit or melons.,VEGETABLE PRODUCTS
+9,"Coffee, tea, maté and spices.",VEGETABLE PRODUCTS
+10,Cereals.,VEGETABLE PRODUCTS
+11,Products of the milling industry; malt; starches; inulin; wheat gluten.,VEGETABLE PRODUCTS
+12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder.",VEGETABLE PRODUCTS
+13,"Lac; gums, resins and other vegetable saps and extracts.",VEGETABLE PRODUCTS
+14,Vegetable plaiting materials; vegetable products not elsewhere specified or included.,VEGETABLE PRODUCTS
+15,Animal or vegetable fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes.,ANIMAL OR VEGETABLE FATS AND OILS AND THEIR CLEAVAGE PRODUCTS; PREPARED EDIBLE FATS; ANIMAL OR VEGETABLE WAXES
+16,"Preparations of meat, of fish or of crustaceans, molluscs or other aquatic invertebrates.","PREPARED FOODSTUFFS; BEVERAGES, SPIRITS AND VINEGAR; TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES"
+17,Sugars and sugar confectionery.,"PREPARED FOODSTUFFS; BEVERAGES, SPIRITS AND VINEGAR; TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES"
+18,Cocoa and cocoa preparations.,"PREPARED FOODSTUFFS; BEVERAGES, SPIRITS AND VINEGAR; TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES"
+19,"Preparations of cereals, flour, starch or milk; pastrycooks' products.","PREPARED FOODSTUFFS; BEVERAGES, SPIRITS AND VINEGAR; TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES"
+20,"Preparations of vegetables, fruit, nuts or other parts of plants.","PREPARED FOODSTUFFS; BEVERAGES, SPIRITS AND VINEGAR; TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES"
+21,Miscellaneous edible preparations.,"PREPARED FOODSTUFFS; BEVERAGES, SPIRITS AND VINEGAR; TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES"
+22,"Beverages, spirits and vinegar.","PREPARED FOODSTUFFS; BEVERAGES, SPIRITS AND VINEGAR; TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES"
+23,Residues and waste from the food industries; prepared animal fodder.,"PREPARED FOODSTUFFS; BEVERAGES, SPIRITS AND VINEGAR; TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES"
+24,Tobacco and manufactured tobacco substitutes.,"PREPARED FOODSTUFFS; BEVERAGES, SPIRITS AND VINEGAR; TOBACCO AND MANUFACTURED TOBACCO SUBSTITUTES"
+25,"Salt; sulphur; earths and stone; plastering materials, lime and cement.",MINERAL PRODUCTS
+26,"Ores, slag and ash.",MINERAL PRODUCTS
+27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes.",MINERAL PRODUCTS
+28,"Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes.",PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES
+29,Organic chemicals.,PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES
+30,Pharmaceutical products.,PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES
+31,Fertilisers.,PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES
+32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints and varnishes; putty and other mastics; inks.",PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES
+33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations.",PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES
+34,"Soap, organic surface-active agents, washing preparations, lubricating preparations, artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, ""dental waxes"" and dental preparations with a basis of plaster.",PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES
+35,Albuminoidal substances; modified starches; glues; enzymes.,PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES
+36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations.,PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES
+37,Photographic or cinematographic goods.,PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES
+38,Miscellaneous chemical products.,PRODUCTS OF THE CHEMICAL OR ALLIED INDUSTRIES
+39,Plastics and articles .,PLASTICS AND ARTICLES ; RUBBER AND ARTICLES 
+40,Rubber and articles .,PLASTICS AND ARTICLES ; RUBBER AND ARTICLES 
+41,Raw hides and skins (other than furskins) and leather.,"RAW HIDES AND SKINS, LEATHER, FURSKINS AND ARTICLES ; SADDLERY AND HARNESS; TRAVEL GOODS, HANDBAGS AND SIMILAR CONTAINERS; ARTICLES OF ANIMAL GUT (OTHER THAN SILK-WORM GUT)"
+42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut).","RAW HIDES AND SKINS, LEATHER, FURSKINS AND ARTICLES ; SADDLERY AND HARNESS; TRAVEL GOODS, HANDBAGS AND SIMILAR CONTAINERS; ARTICLES OF ANIMAL GUT (OTHER THAN SILK-WORM GUT)"
+43,Furskins and artificial fur; manufactures .,"RAW HIDES AND SKINS, LEATHER, FURSKINS AND ARTICLES ; SADDLERY AND HARNESS; TRAVEL GOODS, HANDBAGS AND SIMILAR CONTAINERS; ARTICLES OF ANIMAL GUT (OTHER THAN SILK-WORM GUT)"
+44,Wood and articles of wood; wood charcoal.,"WOOD AND ARTICLES OF WOOD; WOOD CHARCOAL; CORK AND ARTICLES OF CORK; MANUFACTURES OF STRAW, OF ESPARTO OR OF OTHER PLAITING MATERIALS; BASKETWARE AND WICKERWORK"
+45,Cork and articles of cork.,"WOOD AND ARTICLES OF WOOD; WOOD CHARCOAL; CORK AND ARTICLES OF CORK; MANUFACTURES OF STRAW, OF ESPARTO OR OF OTHER PLAITING MATERIALS; BASKETWARE AND WICKERWORK"
+46,"Manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork.","WOOD AND ARTICLES OF WOOD; WOOD CHARCOAL; CORK AND ARTICLES OF CORK; MANUFACTURES OF STRAW, OF ESPARTO OR OF OTHER PLAITING MATERIALS; BASKETWARE AND WICKERWORK"
+47,Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard.,PULP OF WOOD OR OF OTHER FIBROUS CELLULOSIC MATERIAL; RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD; PAPER AND PAPERBOARD AND ARTICLES 
+48,"Paper and paperboard; articles of paper pulp, of paper or of paperboard.",PULP OF WOOD OR OF OTHER FIBROUS CELLULOSIC MATERIAL; RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD; PAPER AND PAPERBOARD AND ARTICLES 
+49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans.",PULP OF WOOD OR OF OTHER FIBROUS CELLULOSIC MATERIAL; RECOVERED (WASTE AND SCRAP) PAPER OR PAPERBOARD; PAPER AND PAPERBOARD AND ARTICLES 
+50,Silk.,TEXTILES AND TEXTILE ARTICLES
+51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric.",TEXTILES AND TEXTILE ARTICLES
+52,Cotton.,TEXTILES AND TEXTILE ARTICLES
+53,Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn.,TEXTILES AND TEXTILE ARTICLES
+54,Man-made filaments.,TEXTILES AND TEXTILE ARTICLES
+55,Man-made staple fibres.,TEXTILES AND TEXTILE ARTICLES
+56,"Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles .",TEXTILES AND TEXTILE ARTICLES
+57,Carpets and other textile floor coverings.,TEXTILES AND TEXTILE ARTICLES
+58,Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery.,TEXTILES AND TEXTILE ARTICLES
+59,"Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use.",TEXTILES AND TEXTILE ARTICLES
+60,Knitted or crocheted fabrics.,TEXTILES AND TEXTILE ARTICLES
+61,"Articles of apparel and clothing accessories, knitted or crocheted.",TEXTILES AND TEXTILE ARTICLES
+62,"Articles of apparel and clothing accessories, not knitted or crocheted.",TEXTILES AND TEXTILE ARTICLES
+63,Other made up textile articles; sets; worn clothing and worn textile articles; rags.,TEXTILES AND TEXTILE ARTICLES
+64,"Footwear, gaiters and the like; parts of such articles.","FOOTWEAR, HEADGEAR, UMBRELLAS, SUN UMBRELLAS, WALKING-STICKS, SEAT-STICKS, WHIPS, RIDING-CROPS AND PARTS ; PREPARED FEATHERS AND ARTICLES MADE THEREWITH; ARTIFICIAL FLOWERS; ARTICLES OF HUMAN HAIR"
+65,Headgear and parts .,"FOOTWEAR, HEADGEAR, UMBRELLAS, SUN UMBRELLAS, WALKING-STICKS, SEAT-STICKS, WHIPS, RIDING-CROPS AND PARTS ; PREPARED FEATHERS AND ARTICLES MADE THEREWITH; ARTIFICIAL FLOWERS; ARTICLES OF HUMAN HAIR"
+66,"Umbrellas, sun umbrellas, walking-sticks, seat-sticks, whips, riding-crops and parts .","FOOTWEAR, HEADGEAR, UMBRELLAS, SUN UMBRELLAS, WALKING-STICKS, SEAT-STICKS, WHIPS, RIDING-CROPS AND PARTS ; PREPARED FEATHERS AND ARTICLES MADE THEREWITH; ARTIFICIAL FLOWERS; ARTICLES OF HUMAN HAIR"
+67,Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair.,"FOOTWEAR, HEADGEAR, UMBRELLAS, SUN UMBRELLAS, WALKING-STICKS, SEAT-STICKS, WHIPS, RIDING-CROPS AND PARTS ; PREPARED FEATHERS AND ARTICLES MADE THEREWITH; ARTIFICIAL FLOWERS; ARTICLES OF HUMAN HAIR"
+68,"Articles of stone, plaster, cement, asbestos, mica or similar materials.","ARTICLES OF STONE, PLASTER, CEMENT, ASBESTOS, MICA OR SIMILAR MATERIALS; CERAMIC PRODUCTS; GLASS AND GLASSWARE"
+69,Ceramic products.,"ARTICLES OF STONE, PLASTER, CEMENT, ASBESTOS, MICA OR SIMILAR MATERIALS; CERAMIC PRODUCTS; GLASS AND GLASSWARE"
+70,Glass and glassware.,"ARTICLES OF STONE, PLASTER, CEMENT, ASBESTOS, MICA OR SIMILAR MATERIALS; CERAMIC PRODUCTS; GLASS AND GLASSWARE"
+71,"Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal and articles ; imitation jewellery; coin.","NATURAL OR CULTURED PEARLS, PRECIOUS OR SEMI-PRECIOUS STONES, PRECIOUS METALS, METALS CLAD WITH PRECIOUS METAL AND ARTICLES ; IMITATION JEWELLERY; COIN"
+72,Iron and steel.,BASE METALS AND ARTICLES OF BASE METAL
+73,Articles of iron or steel.,BASE METALS AND ARTICLES OF BASE METAL
+74,Copper and articles .,BASE METALS AND ARTICLES OF BASE METAL
+75,Nickel and articles .,BASE METALS AND ARTICLES OF BASE METAL
+76,Aluminium and articles .,BASE METALS AND ARTICLES OF BASE METAL
+77,( Reserved for possible future use in the Harmonized System),BASE METALS AND ARTICLES OF BASE METAL
+78,Lead and articles .,BASE METALS AND ARTICLES OF BASE METAL
+79,Zinc and articles .,BASE METALS AND ARTICLES OF BASE METAL
+80,Tin and articles .,BASE METALS AND ARTICLES OF BASE METAL
+81,Other base metals; cermets; articles .,BASE METALS AND ARTICLES OF BASE METAL
+82,"Tools, implements, cutlery, spoons and forks, of base metal; parts  of base metal.",BASE METALS AND ARTICLES OF BASE METAL
+83,Miscellaneous articles of base metal.,BASE METALS AND ARTICLES OF BASE METAL
+84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts .","MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL EQUIPMENT; PARTS ; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES"
+85,"Electrical machinery and equipment and parts ; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles.","MACHINERY AND MECHANICAL APPLIANCES; ELECTRICAL EQUIPMENT; PARTS ; SOUND RECORDERS AND REPRODUCERS, TELEVISION IMAGE AND SOUND RECORDERS AND REPRODUCERS, AND PARTS AND ACCESSORIES OF SUCH ARTICLES"
+86,"Railway or tramway locomotives, rolling-stock and parts ; railway or tramway track fixtures and fittings and parts ; mechanical (including electro-mechanical) traffic signalling equipment of all kinds.","VEHICLES, AIRCRAFT, VESSELS AND ASSOCIATED TRANSPORT EQUIPMENT"
+87,"Vehicles other than railway or tramway rolling-stock, and parts and accessories .","VEHICLES, AIRCRAFT, VESSELS AND ASSOCIATED TRANSPORT EQUIPMENT"
+88,"Aircraft, spacecraft, and parts .","VEHICLES, AIRCRAFT, VESSELS AND ASSOCIATED TRANSPORT EQUIPMENT"
+89,"Ships, boats and floating structures.","VEHICLES, AIRCRAFT, VESSELS AND ASSOCIATED TRANSPORT EQUIPMENT"
+90,"Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories .","OPTICAL, PHOTOGRAPHIC, CINEMATOGRAPHIC, MEASURING, CHECKING, PRECISION, MEDICAL OR SURGICAL INSTRUMENTS AND APPARATUS; CLOCKS AND WATCHES; MUSICAL INSTRUMENTS; PARTS AND ACCESSORIES "
+91,Clocks and watches and parts .,"OPTICAL, PHOTOGRAPHIC, CINEMATOGRAPHIC, MEASURING, CHECKING, PRECISION, MEDICAL OR SURGICAL INSTRUMENTS AND APPARATUS; CLOCKS AND WATCHES; MUSICAL INSTRUMENTS; PARTS AND ACCESSORIES "
+92,Musical instruments; parts and accessories of such articles.,"OPTICAL, PHOTOGRAPHIC, CINEMATOGRAPHIC, MEASURING, CHECKING, PRECISION, MEDICAL OR SURGICAL INSTRUMENTS AND APPARATUS; CLOCKS AND WATCHES; MUSICAL INSTRUMENTS; PARTS AND ACCESSORIES "
+93,Arms and ammunition; parts and accessories .,ARMS AND AMMUNITION; PARTS AND ACCESSORIES 
+94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated name-plates and the like; prefabricated buildings.",MISCELLANEOUS MANUFACTURED ARTICLES
+95,"Toys, games and sports requisites; parts and accessories .",MISCELLANEOUS MANUFACTURED ARTICLES
+96,Miscellaneous manufactured articles.,MISCELLANEOUS MANUFACTURED ARTICLES
+97,"Works of art, collectors' pieces and antiques.","WORKS OF ART, COLLECTORS' PIECES AND ANTIQUES"
