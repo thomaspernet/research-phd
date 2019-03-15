@@ -289,3 +289,7 @@
   - use the SO2 emission to compute the level of pollution at the industry level:
     - Environmentally extended input-output of China.
     - quality is computed using price index and “Khandelwal index.
+
+## Test 
+
+<iframe width="600" height="400" src="https://econ-complexity.herokuapp.com/"></iframe>
