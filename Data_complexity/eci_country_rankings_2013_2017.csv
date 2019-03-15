@@ -1,0 +1,586 @@
+Year,Country,Country ID,ECI,ECI+
+2013,Botswana,afbwa,-0.574288,-1.09578
+2013,Cote d'Ivoire,afciv,-1.05279,-1.52292
+2013,Cameroon,afcmr,-0.69924,-1.5123
+2013,Republic of the Congo,afcog,-0.675039,-0.85404
+2013,Algeria,afdza,-2.08154,-1.69993
+2013,Egypt,afegy,-0.488663,-0.059151
+2013,Ethiopia,afeth,-1.46341,-2.02886
+2013,Ghana,afgha,-1.27263,-1.25159
+2013,Kenya,afken,-0.616658,-0.792132
+2013,Morocco,afmar,-0.774475,-0.594326
+2013,Madagascar,afmdg,-0.823322,-0.639101
+2013,Mozambique,afmoz,-1.22607,-1.44638
+2013,Namibia,afnam,-0.328879,-0.425254
+2013,Nigeria,afnga,-1.73702,-1.74281
+2013,Sudan,afsdn,-1.873,-3.20108
+2013,Senegal,afsen,-0.744196,-1.28391
+2013,Togo,aftgo,-0.671987,-1.14251
+2013,Tunisia,aftun,0.16411,0.245596
+2013,Tanzania,aftza,-0.919298,-0.904776
+2013,South Africa,afzaf,-0.192079,0.249101
+2013,Zambia,afzmb,-0.731336,-0.743054
+2013,Zimbabwe,afzwe,-1.04674,-2.08561
+2013,United Arab Emirates,asare,-0.090032,0.776872
+2013,Azerbaijan,asaze,-1.44358,-0.519568
+2013,Bangladesh,asbgd,-1.17559,-0.780446
+2013,China,aschn,1.04036,1.46234
+2013,Georgia,asgeo,-0.419841,-0.336523
+2013,Hong Kong,ashkg,1.26313,1.41668
+2013,Indonesia,asidn,-0.160233,0.437969
+2013,India,asind,-0.134587,0.718199
+2013,Iran,asirn,-0.934617,-0.192095
+2013,Israel,asisr,1.22703,0.903089
+2013,Jordan,asjor,-0.140418,-0.420488
+2013,Japan,asjpn,2.37352,1.74701
+2013,Kazakhstan,askaz,-0.961147,-0.363322
+2013,Cambodia,askhm,-0.904026,-1.07319
+2013,South Korea,askor,1.82762,1.45373
+2013,Kuwait,askwt,-1.49314,-0.613362
+2013,Lebanon,aslbn,0.107992,0.024768
+2013,Sri Lanka,aslka,-0.530163,-0.434846
+2013,Mongolia,asmng,-1.67769,-3.21446
+2013,Malaysia,asmys,0.810485,0.84428
+2013,Oman,asomn,-0.874505,-0.589497
+2013,Pakistan,aspak,-1.03613,-0.129927
+2013,Philippines,asphl,0.341858,0.664346
+2013,Qatar,asqat,-0.41667,-0.727806
+2013,Saudi Arabia,assau,-0.462099,0.314889
+2013,Singapore,assgp,1.71717,1.31983
+2013,Thailand,astha,0.87724,0.964175
+2013,Turkey,astur,0.287393,0.583639
+2013,Vietnam,asvnm,-0.231462,0.50153
+2013,Yemen,asyem,-1.34438,-0.762278
+2013,Albania,eualb,-0.684933,-0.464871
+2013,Austria,euaut,1.72767,1.1954
+2013,Belgium,eubel,0.951062,1.06658
+2013,Bulgaria,eubgr,0.278113,0.309899
+2013,Bosnia and Herzegovina,eubih,0.562599,0.081492
+2013,Belarus,eublr,0.689295,0.719835
+2013,Switzerland,euche,2.05181,1.40621
+2013,Czech Republic,eucze,1.53381,1.19275
+2013,Germany,eudeu,1.84608,1.34992
+2013,Denmark,eudnk,0.995356,0.994005
+2013,Spain,euesp,0.700457,0.831666
+2013,Estonia,euest,0.68394,0.600583
+2013,Finland,eufin,1.57477,0.902603
+2013,France,eufra,1.24155,1.20508
+2013,United Kingdom,eugbr,1.45544,1.20145
+2013,Greece,eugrc,-0.210378,0.120715
+2013,Croatia,euhrv,0.822129,0.507594
+2013,Hungary,euhun,1.43941,1.13089
+2013,Ireland,euirl,1.28901,1.10861
+2013,Italy,euita,1.21525,1.19358
+2013,Lithuania,eultu,0.673455,0.66262
+2013,Latvia,eulva,0.478137,0.351063
+2013,Moldova,eumda,-0.019913,-0.022223
+2013,Macedonia,eumkd,-0.323051,-0.205374
+2013,Netherlands,eunld,0.818227,0.958993
+2013,Norway,eunor,0.614676,0.346907
+2013,Poland,eupol,0.817343,0.90097
+2013,Portugal,euprt,0.433862,0.619136
+2013,Romania,eurou,0.751166,0.697304
+2013,Russia,eurus,0.048022,0.526191
+2013,Serbia,eusrb,0.361921,0.224322
+2013,Slovakia,eusvk,1.21794,1.0056
+2013,Slovenia,eusvn,1.4359,1.00407
+2013,Sweden,euswe,1.75214,1.17765
+2013,Ukraine,euukr,0.28954,0.448912
+2013,Canada,nacan,0.421886,0.740106
+2013,Costa Rica,nacri,0.158575,-0.129241
+2013,Dominican Republic,nadom,-0.406432,-0.545814
+2013,Guatemala,nagtm,-0.505798,-0.359199
+2013,Honduras,nahnd,-0.429599,-0.678675
+2013,Jamaica,najam,-0.64931,-1.24971
+2013,Mexico,namex,0.846744,1.02535
+2013,Nicaragua,nanic,-0.955061,-1.06819
+2013,Panama,napan,0.710402,0.749258
+2013,El Salvador,naslv,-0.145168,-0.119284
+2013,United States,nausa,1.43702,1.18747
+2013,Australia,ocaus,-0.816851,-0.077673
+2013,New Zealand,ocnzl,-0.096978,-0.018693
+2013,Argentina,saarg,-0.496513,-0.099565
+2013,Bolivia,sabol,-1.16084,-1.26951
+2013,Brazil,sabra,0.032264,0.374105
+2013,Chile,sachl,-0.499261,-0.142225
+2013,Colombia,sacol,-0.234596,0.132434
+2013,Ecuador,saecu,-1.06674,-0.970341
+2013,Peru,saper,-1.01445,-0.563988
+2013,Paraguay,sapry,-0.982503,-0.575557
+2013,Uruguay,saury,-0.330617,-0.214381
+2013,Venezuela,saven,-0.942948,-0.921538
+2014,Botswana,afbwa,-0.790862,-1.10349
+2014,Cote d'Ivoire,afciv,-1.17654,-1.39779
+2014,Cameroon,afcmr,-0.841034,-1.42138
+2014,Republic of the Congo,afcog,-0.730753,-0.86997
+2014,Algeria,afdza,-1.77252,-1.61295
+2014,Egypt,afegy,-0.341403,0.114287
+2014,Ethiopia,afeth,-1.56239,-1.8107
+2014,Ghana,afgha,-1.47184,-1.22961
+2014,Guinea,afgin,-2.17828,-2.52561
+2014,Kenya,afken,-0.51908,-0.934165
+2014,Morocco,afmar,-0.559651,-0.432635
+2014,Madagascar,afmdg,-0.820193,-0.588076
+2014,Mozambique,afmoz,-1.2084,-1.27947
+2014,Namibia,afnam,-0.381863,-0.378203
+2014,Nigeria,afnga,-1.72001,-1.2984
+2014,Sudan,afsdn,-1.84461,-3.18645
+2014,Senegal,afsen,-0.721723,-1.11949
+2014,Togo,aftgo,-0.462205,-1.26051
+2014,Tunisia,aftun,0.214778,0.308588
+2014,Tanzania,aftza,-1.03347,-1.22919
+2014,South Africa,afzaf,-0.204966,0.248038
+2014,Zambia,afzmb,-0.544915,-0.703199
+2014,Zimbabwe,afzwe,-0.844104,-1.91256
+2014,United Arab Emirates,asare,-0.362895,0.800072
+2014,Azerbaijan,asaze,-1.7818,-0.733234
+2014,China,aschn,1.16379,1.48186
+2014,Georgia,asgeo,-0.457954,-0.392979
+2014,Hong Kong,ashkg,1.35236,1.44879
+2014,Indonesia,asidn,-0.102013,0.51172
+2014,India,asind,-0.014696,0.851584
+2014,Israel,asisr,1.14081,0.85479
+2014,Jordan,asjor,-0.010019,-0.361365
+2014,Japan,asjpn,2.31842,1.65392
+2014,Kazakhstan,askaz,-1.00924,-0.250016
+2014,Cambodia,askhm,-0.723043,-0.896952
+2014,South Korea,askor,1.90646,1.41554
+2014,Kuwait,askwt,-0.836979,-0.348
+2014,Lebanon,aslbn,0.177455,0.034762
+2014,Sri Lanka,aslka,-0.369437,-0.20391
+2014,Mongolia,asmng,-1.55696,-2.93534
+2014,Malaysia,asmys,0.828817,0.907908
+2014,Oman,asomn,-0.774658,-0.583349
+2014,Pakistan,aspak,-0.86519,0.037077
+2014,Philippines,asphl,0.477815,0.65094
+2014,Qatar,asqat,-0.264365,-0.605754
+2014,Saudi Arabia,assau,-0.369927,0.37658
+2014,Singapore,assgp,1.71171,1.26867
+2014,Thailand,astha,0.955651,0.961017
+2014,Turkey,astur,0.378481,0.659361
+2014,Vietnam,asvnm,-0.129961,0.584925
+2014,Albania,eualb,-0.542079,-0.409027
+2014,Austria,euaut,1.64981,1.17686
+2014,Belgium,eubel,0.90581,1.05802
+2014,Bulgaria,eubgr,0.290812,0.391629
+2014,Bosnia and Herzegovina,eubih,0.578374,0.163754
+2014,Belarus,eublr,0.731427,0.709316
+2014,Switzerland,euche,1.99456,1.36414
+2014,Czech Republic,eucze,1.52129,1.17557
+2014,Germany,eudeu,1.81367,1.30898
+2014,Denmark,eudnk,0.95349,0.95159
+2014,Spain,euesp,0.701443,0.818547
+2014,Estonia,euest,0.752262,0.6084
+2014,Finland,eufin,1.49895,0.866857
+2014,France,eufra,1.15748,1.14391
+2014,United Kingdom,eugbr,1.40296,1.15168
+2014,Greece,eugrc,-0.167862,0.1344
+2014,Croatia,euhrv,0.837178,0.513801
+2014,Hungary,euhun,1.38229,1.11904
+2014,Ireland,euirl,1.22044,1.08344
+2014,Italy,euita,1.24155,1.19071
+2014,Lithuania,eultu,0.63807,0.704803
+2014,Latvia,eulva,0.431584,0.375092
+2014,Moldova,eumda,-0.103664,0.029586
+2014,Macedonia,eumkd,-0.216515,-0.089057
+2014,Netherlands,eunld,0.756212,0.936041
+2014,Norway,eunor,0.667969,0.33771
+2014,Poland,eupol,0.839266,0.890026
+2014,Portugal,euprt,0.4937,0.667474
+2014,Romania,eurou,0.787654,0.756671
+2014,Russia,eurus,0.008439,0.512588
+2014,Serbia,eusrb,0.366673,0.261258
+2014,Slovakia,eusvk,1.20436,1.03816
+2014,Slovenia,eusvn,1.41088,0.995182
+2014,Sweden,euswe,1.6459,1.114
+2014,Ukraine,euukr,0.268345,0.433991
+2014,Canada,nacan,0.411362,0.695561
+2014,Costa Rica,nacri,0.093993,-0.088551
+2014,Dominican Republic,nadom,-0.40546,-0.49685
+2014,Guatemala,nagtm,-0.412311,-0.342852
+2014,Honduras,nahnd,-0.370913,-0.498779
+2014,Jamaica,najam,-0.787602,-1.38448
+2014,Mexico,namex,0.953003,1.0197
+2014,Nicaragua,nanic,-1.00073,-0.904454
+2014,Panama,napan,-0.558959,-0.866051
+2014,El Salvador,naslv,-0.070683,-0.003148
+2014,United States,nausa,1.30167,1.13702
+2014,Australia,ocaus,-0.846322,-0.09589
+2014,New Zealand,ocnzl,-0.119421,-0.016548
+2014,Argentina,saarg,-0.502072,-0.130401
+2014,Bolivia,sabol,-1.18122,-1.12006
+2014,Brazil,sabra,-0.151225,0.351105
+2014,Chile,sachl,-0.532363,-0.126211
+2014,Colombia,sacol,-0.194463,0.174145
+2014,Ecuador,saecu,-1.30875,-0.997144
+2014,Peru,saper,-0.956349,-0.562083
+2014,Paraguay,sapry,-1.10231,-0.549455
+2014,Uruguay,saury,-0.349791,-0.23355
+2015,Angola,afago,-1.25745,
+2015,Cote d'Ivoire,afciv,-0.965066,-1.32897
+2015,Cameroon,afcmr,-1.0069,-1.53022
+2015,Republic of the Congo,afcog,-1.03802,-1.10662
+2015,Algeria,afdza,-1.01136,-1.80353
+2015,Egypt,afegy,-0.376617,0.125018
+2015,Ethiopia,afeth,-1.31886,-1.55586
+2015,Gabon,afgab,-1.06145,
+2015,Ghana,afgha,-1.04762,-1.10084
+2015,Guinea,afgin,-1.22835,-2.21691
+2015,Kenya,afken,-0.690631,-0.868874
+2015,Liberia,aflbr,-0.719266,
+2015,Morocco,afmar,-0.877951,-0.401258
+2015,Madagascar,afmdg,-1.49269,-0.641595
+2015,Mali,afmli,-1.29791,
+2015,Mozambique,afmoz,-1.18598,-1.15741
+2015,Mauritius,afmus,-0.666129,
+2015,Malawi,afmwi,-0.438195,
+2015,Nigeria,afnga,-1.60088,-1.34207
+2015,Sudan,afsdn,-1.53738,-3.5323
+2015,Senegal,afsen,-0.498182,-1.30014
+2015,Tunisia,aftun,-0.323836,0.331971
+2015,Tanzania,aftza,-0.879252,-1.1827
+2015,Uganda,afuga,-0.379853,
+2015,South Africa,afzaf,0.303549,0.261409
+2015,Zambia,afzmb,-0.219831,-0.695252
+2015,Zimbabwe,afzwe,-0.697917,-1.66071
+2015,United Arab Emirates,asare,0.124122,0.696594
+2015,Azerbaijan,asaze,-0.674689,-0.768319
+2015,Bangladesh,asbgd,-1.76105,
+2015,China,aschn,0.60941,1.44349
+2015,Georgia,asgeo,-0.13572,-0.339992
+2015,Hong Kong,ashkg,0.426902,1.46031
+2015,Indonesia,asidn,-0.382548,0.52896
+2015,India,asind,0.254162,0.847024
+2015,Israel,asisr,1.23759,0.869468
+2015,Jordan,asjor,-0.0543591,-0.40191
+2015,Japan,asjpn,2.29751,1.62512
+2015,Kazakhstan,askaz,0.0243757,-0.310973
+2015,Kyrgyzstan,askgz,-0.430339,
+2015,Cambodia,askhm,-1.47629,-0.549386
+2015,South Korea,askor,1.65462,1.41318
+2015,Kuwait,askwt,0.25958,-0.507354
+2015,Laos,aslao,-1.21682,
+2015,Lebanon,aslbn,0.11624,0.030387
+2015,Sri Lanka,aslka,-1.05527,-0.102564
+2015,Mongolia,asmng,-0.851358,-2.7369
+2015,Malaysia,asmys,0.938148,0.928129
+2015,Oman,asomn,-0.297732,-0.577617
+2015,Pakistan,aspak,-0.922811,0.053777
+2015,Philippines,asphl,0.111666,0.653927
+2015,Qatar,asqat,0.322636,-0.752596
+2015,Saudi Arabia,assau,0.870754,0.367974
+2015,Singapore,assgp,1.746,1.24691
+2015,Thailand,astha,0.590169,0.992656
+2015,Tajikistan,astjk,-1.17436,
+2015,Turkmenistan,astkm,-1.48447,
+2015,Turkey,astur,0.133999,0.652583
+2015,Uzbekistan,asuzb,-0.873889,
+2015,Vietnam,asvnm,-0.707104,0.631556
+2015,Yemen,asyem,-0.912604,-0.886144
+2015,Albania,eualb,-0.896511,-0.360143
+2015,Austria,euaut,1.68354,1.18454
+2015,Bulgaria,eubgr,0.358694,0.416352
+2015,Bosnia and Herzegovina,eubih,0.32009,0.199232
+2015,Belarus,eublr,0.836874,0.653686
+2015,Switzerland,euche,2.15805,1.36086
+2015,Czech Republic,eucze,1.67011,1.17817
+2015,Germany,eudeu,2.09809,1.31157
+2015,Denmark,eudnk,1.23141,0.94943
+2015,Spain,euesp,0.820536,0.828131
+2015,Estonia,euest,0.86561,0.646673
+2015,Finland,eufin,1.77048,0.875278
+2015,France,eufra,1.41803,1.13567
+2015,United Kingdom,eugbr,1.6425,1.14639
+2015,Greece,eugrc,0.113201,0.106152
+2015,Croatia,euhrv,0.657789,0.50865
+2015,Hungary,euhun,1.35493,1.14158
+2015,Ireland,euirl,1.35298,1.07631
+2015,Italy,euita,1.11574,1.19612
+2015,Lithuania,eultu,0.667051,0.707232
+2015,Latvia,eulva,0.629273,0.389543
+2015,Moldova,eumda,-0.388113,-0.044257
+2015,Macedonia,eumkd,-0.39802,-0.015171
+2015,Netherlands,eunld,1.31596,0.953633
+2015,Norway,eunor,1.21126,0.329303
+2015,Poland,eupol,1.10641,0.909854
+2015,Portugal,euprt,0.255319,0.683932
+2015,Romania,eurou,0.561038,0.718277
+2015,Russia,eurus,0.855036,0.546213
+2015,Serbia,eusrb,0.520936,0.311116
+2015,Slovakia,eusvk,1.31956,1.05168
+2015,Slovenia,eusvn,1.42499,1.01149
+2015,Sweden,euswe,1.92429,1.10674
+2015,Ukraine,euukr,0.658954,0.386739
+2015,Canada,nacan,1.12953,0.682508
+2015,Costa Rica,nacri,0.135131,-0.036409
+2015,Dominican Republic,nadom,-0.422355,-0.520992
+2015,Guatemala,nagtm,-0.555447,-0.342653
+2015,Honduras,nahnd,-0.844833,-0.494988
+2015,Jamaica,najam,-0.285952,-1.4375
+2015,Mexico,namex,1.15387,1.03857
+2015,Nicaragua,nanic,-1.31615,-0.971693
+2015,Panama,napan,0.0789054,-0.961569
+2015,El Salvador,naslv,-0.518145,0.094513
+2015,Trinidad and Tobago,natto,-0.219598,
+2015,United States,nausa,1.8166,1.12487
+2015,Australia,ocaus,0.0971997,-0.11783
+2015,New Zealand,ocnzl,0.59338,-0.056598
+2015,Argentina,saarg,0.462111,-0.188967
+2015,Bolivia,sabol,-1.06538,-1.22943
+2015,Brazil,sabra,0.696066,0.361846
+2015,Chile,sachl,0.0316813,-0.111206
+2015,Colombia,sacol,0.0953318,0.194997
+2015,Ecuador,saecu,-0.768335,-1.08043
+2015,Peru,saper,-0.645699,-0.556697
+2015,Paraguay,sapry,-0.63956,-0.602473
+2015,Uruguay,saury,0.220677,-0.249724
+2016,Angola,afago,-1.16876,
+2016,Cote d'Ivoire,afciv,-0.987537,
+2016,Cameroon,afcmr,-0.814567,
+2016,Republic of the Congo,afcog,-1.07835,
+2016,Algeria,afdza,-0.937221,
+2016,Egypt,afegy,-0.346329,
+2016,Ethiopia,afeth,-1.30394,
+2016,Gabon,afgab,-1.36159,
+2016,Ghana,afgha,-1.21682,
+2016,Guinea,afgin,-1.44215,
+2016,Kenya,afken,-0.705736,
+2016,Liberia,aflbr,-0.98089,
+2016,Libya,aflby,-1.26778,
+2016,Morocco,afmar,-0.861004,
+2016,Madagascar,afmdg,-1.47536,
+2016,Mali,afmli,-0.99785,
+2016,Mozambique,afmoz,-1.18114,
+2016,Mauritania,afmrt,-0.833422,
+2016,Mauritius,afmus,-0.638339,
+2016,Malawi,afmwi,-0.468412,
+2016,Nigeria,afnga,-1.73247,
+2016,Sudan,afsdn,-1.63482,
+2016,Senegal,afsen,-0.583953,
+2016,Tunisia,aftun,-0.323494,
+2016,Tanzania,aftza,-0.97857,
+2016,Uganda,afuga,-0.383244,
+2016,South Africa,afzaf,0.28477,
+2016,Zambia,afzmb,-0.367271,
+2016,Zimbabwe,afzwe,-0.707958,
+2016,United Arab Emirates,asare,0.0911202,
+2016,Azerbaijan,asaze,-0.650166,
+2016,Bangladesh,asbgd,-1.77822,
+2016,China,aschn,0.642376,
+2016,Georgia,asgeo,-0.104348,
+2016,Hong Kong,ashkg,0.520167,
+2016,Indonesia,asidn,-0.359668,
+2016,India,asind,0.31413,
+2016,Iran,asirn,-0.157821,
+2016,Israel,asisr,1.27878,
+2016,Jordan,asjor,-0.101439,
+2016,Japan,asjpn,2.27406,
+2016,Kazakhstan,askaz,0.157371,
+2016,Kyrgyzstan,askgz,-0.33118,
+2016,Cambodia,askhm,-1.44677,
+2016,South Korea,askor,1.69142,
+2016,Kuwait,askwt,0.235139,
+2016,Laos,aslao,-1.19835,
+2016,Lebanon,aslbn,0.0486427,
+2016,Sri Lanka,aslka,-0.972538,
+2016,Mongolia,asmng,-0.767706,
+2016,Malaysia,asmys,0.995461,
+2016,Oman,asomn,-0.0404026,
+2016,Pakistan,aspak,-0.935143,
+2016,Philippines,asphl,0.220265,
+2016,Qatar,asqat,0.499297,
+2016,Saudi Arabia,assau,0.819673,
+2016,Singapore,assgp,1.79973,
+2016,Syria,assyr,-0.633554,
+2016,Thailand,astha,0.650521,
+2016,Tajikistan,astjk,-1.03731,
+2016,Turkmenistan,astkm,-1.27173,
+2016,Turkey,astur,0.150909,
+2016,Uzbekistan,asuzb,-0.895987,
+2016,Vietnam,asvnm,-0.669703,
+2016,Yemen,asyem,-0.757001,
+2016,Albania,eualb,-0.90769,
+2016,Austria,euaut,1.63921,
+2016,Bulgaria,eubgr,0.327278,
+2016,Bosnia and Herzegovina,eubih,0.328647,
+2016,Belarus,eublr,0.743585,
+2016,Switzerland,euche,2.22117,
+2016,Czech Republic,eucze,1.66047,
+2016,Germany,eudeu,2.08459,
+2016,Denmark,eudnk,1.21947,
+2016,Spain,euesp,0.80013,
+2016,Estonia,euest,0.843983,
+2016,Finland,eufin,1.72464,
+2016,France,eufra,1.40465,
+2016,United Kingdom,eugbr,1.5493,
+2016,Greece,eugrc,0.106201,
+2016,Croatia,euhrv,0.666972,
+2016,Hungary,euhun,1.37204,
+2016,Ireland,euirl,1.40903,
+2016,Italy,euita,1.10767,
+2016,Lithuania,eultu,0.627923,
+2016,Latvia,eulva,0.649569,
+2016,Moldova,eumda,-0.475939,
+2016,Macedonia,eumkd,-0.379236,
+2016,Netherlands,eunld,1.28874,
+2016,Norway,eunor,1.19882,
+2016,Poland,eupol,1.09864,
+2016,Portugal,euprt,0.26363,
+2016,Romania,eurou,0.620618,
+2016,Russia,eurus,0.8547,
+2016,Serbia,eusrb,0.546327,
+2016,Slovakia,eusvk,1.34513,
+2016,Slovenia,eusvn,1.44739,
+2016,Sweden,euswe,1.86277,
+2016,Ukraine,euukr,0.619115,
+2016,Canada,nacan,1.08422,
+2016,Costa Rica,nacri,0.231586,
+2016,Cuba,nacub,-0.274702,
+2016,Dominican Republic,nadom,-0.382253,
+2016,Guatemala,nagtm,-0.57015,
+2016,Honduras,nahnd,-0.765916,
+2016,Jamaica,najam,-0.258965,
+2016,Mexico,namex,1.16038,
+2016,Nicaragua,nanic,-1.34285,
+2016,Panama,napan,0.124958,
+2016,El Salvador,naslv,-0.491815,
+2016,Trinidad and Tobago,natto,-0.174918,
+2016,United States,nausa,1.78168,
+2016,Australia,ocaus,0.146237,
+2016,New Zealand,ocnzl,0.488085,
+2016,Papua New Guinea,ocpng,-1.75799,
+2016,Argentina,saarg,0.360496,
+2016,Bolivia,sabol,-1.06344,
+2016,Brazil,sabra,0.648284,
+2016,Chile,sachl,0.0611241,
+2016,Colombia,sacol,0.11439,
+2016,Ecuador,saecu,-0.950771,
+2016,Peru,saper,-0.565693,
+2016,Paraguay,sapry,-0.767192,
+2016,Uruguay,saury,0.177011,
+2016,Venezuela,saven,-0.667168,
+2017,Angola,afago,-1.3177,
+2017,Cote d'Ivoire,afciv,-1.12772,
+2017,Cameroon,afcmr,-1.01371,
+2017,Republic of the Congo,afcog,-0.898092,
+2017,Algeria,afdza,-0.811671,
+2017,Egypt,afegy,-0.319753,
+2017,Ethiopia,afeth,-1.27445,
+2017,Gabon,afgab,-1.22477,
+2017,Ghana,afgha,-1.15388,
+2017,Guinea,afgin,-1.51688,
+2017,Kenya,afken,-0.747829,
+2017,Liberia,aflbr,-0.854269,
+2017,Libya,aflby,-0.965428,
+2017,Morocco,afmar,-0.89235,
+2017,Madagascar,afmdg,-1.45882,
+2017,Mali,afmli,-0.767797,
+2017,Mozambique,afmoz,-1.24908,
+2017,Mauritania,afmrt,-0.963114,
+2017,Mauritius,afmus,-0.579654,
+2017,Malawi,afmwi,-0.768715,
+2017,Nigeria,afnga,-1.90268,
+2017,Sudan,afsdn,-1.45787,
+2017,Senegal,afsen,-0.518687,
+2017,Tunisia,aftun,-0.287626,
+2017,Tanzania,aftza,-1.01705,
+2017,Uganda,afuga,-0.512514,
+2017,South Africa,afzaf,0.268797,
+2017,Zambia,afzmb,-0.514087,
+2017,Zimbabwe,afzwe,-0.811801,
+2017,United Arab Emirates,asare,0.128674,
+2017,Azerbaijan,asaze,-0.654587,
+2017,Bangladesh,asbgd,-1.71442,
+2017,China,aschn,0.691307,
+2017,Georgia,asgeo,-0.0587891,
+2017,Hong Kong,ashkg,0.594188,
+2017,Indonesia,asidn,-0.305644,
+2017,India,asind,0.359807,
+2017,Iran,asirn,-0.158038,
+2017,Israel,asisr,1.3146,
+2017,Jordan,asjor,-0.149852,
+2017,Japan,asjpn,2.30938,
+2017,Kazakhstan,askaz,0.0883664,
+2017,Kyrgyzstan,askgz,-0.286814,
+2017,Cambodia,askhm,-1.37692,
+2017,South Korea,askor,1.77613,
+2017,Kuwait,askwt,0.11607,
+2017,Laos,aslao,-1.25108,
+2017,Lebanon,aslbn,0.0803256,
+2017,Sri Lanka,aslka,-0.901589,
+2017,Mongolia,asmng,-0.78801,
+2017,Malaysia,asmys,0.971372,
+2017,Oman,asomn,-0.0609077,
+2017,Pakistan,aspak,-0.859978,
+2017,Philippines,asphl,0.381087,
+2017,Qatar,asqat,0.396207,
+2017,Saudi Arabia,assau,0.747155,
+2017,Singapore,assgp,1.86534,
+2017,Syria,assyr,-0.744963,
+2017,Thailand,astha,0.711704,
+2017,Tajikistan,astjk,-1.10384,
+2017,Turkmenistan,astkm,-1.19506,
+2017,Turkey,astur,0.175726,
+2017,Uzbekistan,asuzb,-0.847152,
+2017,Vietnam,asvnm,-0.623084,
+2017,Yemen,asyem,-0.97195,
+2017,Albania,eualb,-0.781571,
+2017,Austria,euaut,1.62894,
+2017,Bulgaria,eubgr,0.347659,
+2017,Bosnia and Herzegovina,eubih,0.372865,
+2017,Belarus,eublr,0.743075,
+2017,Switzerland,euche,2.24386,
+2017,Czech Republic,eucze,1.6431,
+2017,Germany,eudeu,2.07537,
+2017,Denmark,eudnk,1.1577,
+2017,Spain,euesp,0.777415,
+2017,Estonia,euest,0.898422,
+2017,Finland,eufin,1.70679,
+2017,France,eufra,1.38964,
+2017,United Kingdom,eugbr,1.53259,
+2017,Greece,eugrc,0.125884,
+2017,Croatia,euhrv,0.623091,
+2017,Hungary,euhun,1.38444,
+2017,Ireland,euirl,1.40023,
+2017,Italy,euita,1.11743,
+2017,Lithuania,eultu,0.675449,
+2017,Latvia,eulva,0.653054,
+2017,Moldova,eumda,-0.464417,
+2017,Macedonia,eumkd,-0.290303,
+2017,Netherlands,eunld,1.30343,
+2017,Norway,eunor,1.09466,
+2017,Poland,eupol,1.09432,
+2017,Portugal,euprt,0.258555,
+2017,Romania,eurou,0.713669,
+2017,Russia,eurus,0.852045,
+2017,Serbia,eusrb,0.532947,
+2017,Slovakia,eusvk,1.3402,
+2017,Slovenia,eusvn,1.4319,
+2017,Sweden,euswe,1.80773,
+2017,Ukraine,euukr,0.556886,
+2017,Canada,nacan,1.05671,
+2017,Costa Rica,nacri,0.237988,
+2017,Cuba,nacub,-0.379871,
+2017,Dominican Republic,nadom,-0.363374,
+2017,Guatemala,nagtm,-0.616793,
+2017,Honduras,nahnd,-0.744556,
+2017,Jamaica,najam,-0.239734,
+2017,Mexico,namex,1.09955,
+2017,Nicaragua,nanic,-1.33756,
+2017,Panama,napan,0.119062,
+2017,El Salvador,naslv,-0.336211,
+2017,Trinidad and Tobago,natto,-0.0506048,
+2017,United States,nausa,1.75541,
+2017,Australia,ocaus,0.0863035,
+2017,New Zealand,ocnzl,0.483484,
+2017,Papua New Guinea,ocpng,-2.00821,
+2017,Argentina,saarg,0.232335,
+2017,Bolivia,sabol,-1.07744,
+2017,Brazil,sabra,0.608252,
+2017,Chile,sachl,0.0443139,
+2017,Colombia,sacol,0.144356,
+2017,Ecuador,saecu,-0.933232,
+2017,Peru,saper,-0.598962,
+2017,Paraguay,sapry,-0.676455,
+2017,Uruguay,saury,0.207869,
+2017,Venezuela,saven,-0.655229,
