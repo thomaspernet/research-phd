@@ -22,6 +22,7 @@ import dash
 import dash_core_components as dcc
 import dash_html_components as html
 
+### File name
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 path_com = 'https://raw.githubusercontent.com/thomaspernet/research-phd/master/' \
 'Data_complexity/complexity_world_ranking.csv'
